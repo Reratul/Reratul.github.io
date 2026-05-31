@@ -7,7 +7,10 @@ order: 4
 
 > Hey! Myself Reratul Azime. Currently optaining my bachelor's in computer science and engineering from University of Barishal.
 {: .filepath }
+<img src="/assets/nah.jpg" 
+     style="float: left; margin-right: 20px; width: 150px; border-radius: 50%;">
 
+Hi, I'm Reratul Azime...
 ## Hi, I'm Reratul Azime 👋
 
 I'm a Computer Science & Engineering student at the University of Barishal.
