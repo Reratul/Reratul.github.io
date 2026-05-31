@@ -13,12 +13,12 @@ order: 4
   </div>
 </div>
 
-<div style="border-left:2px solid #ddd; padding-left:16px">
-  <div style="margin-bottom:14px">
+<div style="border-left:2px solid #ddd; padding-left:24px">
+  <div style="margin-bottom:20px">
     <p style="color:#1D9E75; font-size:12px; font-weight:600; margin:0">2022 — Present</p>
     <p style="margin:2px 0 0; font-size:13px">Bachelor's in CS & Engineering, University of Barishal</p>
   </div>
-  <div style="margin-bottom:14px">
+  <div style="margin-bottom:20px">
     <p style="color:#1D9E75; font-size:12px; font-weight:600; margin:0">2023</p>
     <p style="margin:2px 0 0; font-size:13px">Started this blog to document learning and projects</p>
   </div>
