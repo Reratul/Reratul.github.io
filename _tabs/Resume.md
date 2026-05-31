@@ -31,24 +31,26 @@ order: 4
 
 <div class="cv">
   <div class="cv-left">
-    <div class="avatar">RA</div>
+    <div class="avatar">
+       <img src="/assets/nah.jpg" alt="reratul" style="width:60px; height:60px; border-radius:50%">
+    </div>
     <div class="cv-name">Reratul Azime</div>
     <div class="cv-role">CS & Engineering Student</div>
 
     <div class="left-section">
       <div class="left-title">Contact</div>
-      <div class="contact-item"><i class="fas fa-envelope"></i> your@email.com</div>
+      <div class="contact-item"><i class="fas fa-envelope"></i> reratulazime@gmail.com</div>
       <div class="contact-item"><i class="fab fa-github"></i> github.com/Reratul</div>
       <div class="contact-item"><i class="fas fa-map-marker-alt"></i> Barishal, Bangladesh</div>
     </div>
 
     <div class="left-section">
       <div class="left-title">Skills</div>
-      <div class="skill-name">Python</div>
+      <div class="skill-name">Python, Tensorflow, Weka</div>
       <div class="skill-bar"><div class="skill-fill" style="width:80%"></div></div>
       <div class="skill-name">JavaScript</div>
       <div class="skill-bar"><div class="skill-fill" style="width:65%"></div></div>
-      <div class="skill-name">HTML / CSS</div>
+      <div class="skill-name">C/ C++</div>
       <div class="skill-bar"><div class="skill-fill" style="width:75%"></div></div>
       <div class="skill-name">Machine Learning</div>
       <div class="skill-bar"><div class="skill-fill" style="width:50%"></div></div>
