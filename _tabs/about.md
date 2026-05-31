@@ -23,7 +23,7 @@ order: 4
 
 
 <div style="display:flex; align-items:center; gap:16px; margin-bottom:20px">
-  <img src="/assets/nah.jpg" alt="reratul" style="width:60px; height:60px; border-radius:50%">
+ 
   <div>
     <h2 style="margin:0">Reratul Azime</h2>
     <p style="margin:4px 0 0; color:#888">CS Student · Barishal, Bangladesh</p>
@@ -44,4 +44,4 @@ order: 4
     <p style="margin:2px 0 0; font-size:13px">Built first full-stack project & contributed to open source</p>
   </div>
 </div>
-d
+
