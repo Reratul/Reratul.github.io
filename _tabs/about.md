@@ -17,6 +17,6 @@ I'm a Computer Science & Engineering student at the University of Barishal.
 
 - 🎓 Currently pursuing my Bachelor's degree
 - 💻 Interested in [your interests, e.g. web dev, AI, etc.]
-- 📫 Reach me at: your@email.com
+- 📫 Reach me at: reratulazime@gmail.com
 
-![My Photo](/assets/nah.jpg)
+
