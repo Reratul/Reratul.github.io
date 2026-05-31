@@ -8,7 +8,7 @@ order: 4
 > Hey! Myself Reratul Azime. Currently optaining my bachelor's in computer science and engineering from University of Barishal.
 {: .filepath }
 <div style="display:flex; align-items:center; gap:24px; padding:20px; border:1px solid #eee; border-radius:12px; margin-bottom:2rem;">
-  <img src="/assets/nah.jpg" style="width:80px; height:80px; border-radius:50%; object-fit:cover;">
+  <img src="/assets/nah.jpg" alt="Reratul" style="width:80px; height:80px; border-radius:50%; object-fit:cover;">
   <div>
     <h2 style="margin:0">Reratul Azime</h2>
     <p style="color:#7F77DD; margin:4px 0 8px">CS & Engineering · University of Barishal</p>
