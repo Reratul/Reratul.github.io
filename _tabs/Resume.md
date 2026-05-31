@@ -29,10 +29,6 @@ order: 4
 .tag{font-size:11px;padding:3px 10px;border-radius:20px;background:#EEEDFE;color:#3C3489;margin:4px 2px;display:inline-block}
 </style>
 
-<a href="/assets/resume.pdf" style="display:inline-flex;align-items:center;gap:6px;padding:8px 18px;background:#3C3489;color:white;border-radius:8px;font-size:13px;text-decoration:none;margin-bottom:20px">
-  <i class="fas fa-download"></i> Download PDF
-</a>
-
 <div class="cv">
   <div class="cv-left">
     <div class="avatar">RA</div>
