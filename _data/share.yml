@@ -2,9 +2,9 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
+  - type: Github
     icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+    link: "https://github.com/Reratul"
 
   - type: Facebook
     icon: "fab fa-facebook-square"
