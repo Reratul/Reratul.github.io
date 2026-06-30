@@ -1,0 +1,13 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Disallow crawling of internal system and asset directories
+Disallow: /assets/js/
+Disallow: /assets/css/
+Disallow: /vendor/
+Disallow: /Gemfile
+Disallow: /Gemfile.lock
+
+# Point search engines directly to your newly created sitemap
+Sitemap: https://reratul.github.io/sitemap.xml
